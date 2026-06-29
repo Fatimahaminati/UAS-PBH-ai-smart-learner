@@ -20,7 +20,7 @@ function DetailMateri(){
             title:"Mengenal Artificial Intelligence",
 
             content:
-            "Artificial Intelligence (AI) atau kecerdasan buatan adalah teknologi yang memungkinkan komputer melakukan tugas yang biasanya membutuhkan kemampuan manusia seperti memahami bahasa, mengenali pola, belajar dari data, dan mengambil keputusan.",
+            "Artificial Intelligence adalah teknologi yang memungkinkan mesin atau komputer untuk meniru kemampuan kognitif manusia. AI atau kecerdasan buatan adalah sistem yang dapat memahami, belajar, dan berpikir layaknya manusia dalam beberapa aspek, seperti mengenali pola, membuat prediksi, dan menyelesaikan masalah kompleks.",
 
 
             example:
