@@ -40,7 +40,7 @@ function DetailMateri(){
             title:"AI dalam Dunia Pendidikan",
 
             content:
-            "AI dapat membantu proses pembelajaran dengan memberikan dukungan dalam mencari informasi, memahami konsep, membuat ide, dan meningkatkan efektivitas belajar.",
+            "Kecerdasan Buatan (Artificial Intelligence/AI) telah merevolusi dunia pendidikan dengan menghadirkan berbagai inovasi yang mendukung proses belajar mengajar. AI memungkinkan terciptanya pembelajaran yang dipersonalisasi sesuai dengan kemampuan, minat, dan kecepatan belajar setiap siswa, sehingga proses pembelajaran menjadi lebih efektif dan adaptif. Selain itu, siswa dapat memanfaatkan asisten AI untuk memperoleh penjelasan ulang terhadap materi yang belum dipahami kapan saja, sehingga mendukung pembelajaran mandiri. Di sisi lain, AI juga meningkatkan efisiensi kerja pendidik melalui penilaian otomatis terhadap tugas, kuis, maupun ujian, serta membantu menganalisis perkembangan akademik siswa untuk mengidentifikasi peserta didik yang memerlukan perhatian lebih awal. Dalam penyusunan materi pembelajaran, AI berperan sebagai asisten guru dengan membantu menyusun rencana pelaksanaan pembelajaran (RPP), membuat soal evaluasi, serta memberikan ide-ide kreatif dalam proses pembelajaran. Selain itu, AI turut meningkatkan aksesibilitas dan pemerataan pendidikan melalui fitur penerjemah, transkripsi otomatis bagi siswa penyandang disabilitas, serta penyediaan platform pembelajaran berbasis AI yang dapat dimanfaatkan oleh siswa di daerah terpencil atau sekolah yang memiliki keterbatasan tenaga pengajar. Dengan berbagai peran tersebut, AI menjadikan sistem pendidikan lebih efisien, inklusif, dan mampu memenuhi kebutuhan belajar setiap individu.",
 
 
             example:
