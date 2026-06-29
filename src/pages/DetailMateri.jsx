@@ -60,10 +60,36 @@ function DetailMateri(){
             title:"Etika Penggunaan AI",
 
             content:
-            "Penggunaan AI harus dilakukan secara bertanggung jawab dengan memperhatikan transparansi, kebenaran informasi, privasi, dan menghindari ketergantungan."
+            `Etika Kecerdasan Buatan (Artificial Intelligence/AI) merupakan seperangkat prinsip dan pedoman yang mengatur pengembangan serta penggunaan AI agar dilakukan secara adil, transparan, bertanggung jawab, dan tidak merugikan manusia. Penerapan etika AI bertujuan untuk mencegah bias, melindungi privasi pengguna, serta memastikan bahwa teknologi dimanfaatkan secara bertanggung jawab dan menghormati hak asasi manusia. Berikut merupakan prinsip-prinsip utama etika AI.
 
+1. Transparansi
+Sistem AI harus bekerja secara terbuka sehingga pengguna dapat mengetahui bagaimana AI menghasilkan suatu keputusan dan dari mana sumber data yang digunakan.
 
-            ,
+2. Keadilan dan Inklusi
+AI harus dirancang untuk meminimalkan bias sehingga tidak memberikan perlakuan yang berbeda atau mendiskriminasi kelompok tertentu.
+
+3. Privasi dan Keamanan Data
+Data pengguna harus dikelola secara aman, sesuai dengan peraturan yang berlaku, serta terlindungi dari penyalahgunaan atau kebocoran.
+
+4. Akuntabilitas
+Harus terdapat pihak yang bertanggung jawab atas keputusan atau dampak yang dihasilkan oleh sistem AI.
+
+5. Tidak Merugikan (Do No Harm)
+AI tidak boleh digunakan untuk menyebarkan informasi palsu, menghasilkan konten manipulatif seperti deepfake, maupun melakukan tindakan yang dapat merugikan individu atau masyarakat.
+
+Selanjutnya, agar AI dapat dimanfaatkan secara bertanggung jawab, pengguna perlu menerapkan etika AI dalam kehidupan sehari-hari melalui beberapa praktik berikut.
+
+1. Bersikap Jujur dan Transparan
+Sampaikan jika suatu tugas, karya, atau kode program dibuat dengan bantuan AI.
+
+2. Menghindari Plagiarisme
+Gunakan AI sebagai alat bantu untuk mencari ide atau memahami materi, bukan sebagai pengganti hasil pemikiran sendiri.
+
+3. Melindungi Data Pribadi
+Jangan memasukkan informasi yang bersifat rahasia, seperti kata sandi, nomor rekening, atau data pribadi lainnya, ke dalam platform AI.
+
+4. Memverifikasi Informasi
+Selalu periksa kembali informasi yang diberikan AI karena hasil yang dihasilkan belum tentu sepenuhnya benar atau sesuai dengan fakta.`,
 
             example:
             "AI digunakan sebagai alat bantu belajar, bukan menggantikan proses berpikir dan kreativitas manusia."
@@ -139,7 +165,7 @@ function DetailMateri(){
 
 
 
-                <p className="detail-text">
+                <p className="detail-text" style={{ whiteSpace: "pre-line", textAlign: "justify" }}>
 
                     {materi.content}
 
