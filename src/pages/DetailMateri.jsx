@@ -92,7 +92,7 @@ Jangan memasukkan informasi yang bersifat rahasia, seperti kata sandi, nomor rek
 Selalu periksa kembali informasi yang diberikan AI karena hasil yang dihasilkan belum tentu sepenuhnya benar atau sesuai dengan fakta.`,
 
             example:
-            "AI digunakan sebagai alat bantu belajar, bukan menggantikan proses berpikir dan kreativitas manusia."
+            "Seorang mahasiswa menggunakan AI untuk membantu menyusun kerangka makalah. Namun, isi makalah tetap ditulis menggunakan pemikirannya sendiri dan setiap informasi yang diperoleh dari AI diperiksa kembali melalui buku dan jurnal ilmiah. Mahasiswa tersebut juga tidak memasukkan data pribadi atau informasi rahasia ke dalam platform AI."
 
         },
 
@@ -108,13 +108,30 @@ Selalu periksa kembali informasi yang diberikan AI karena hasil yang dihasilkan 
             title:"Tantangan dan Risiko AI",
 
             content:
-            "AI memiliki beberapa risiko seperti informasi yang tidak akurat, penyalahgunaan teknologi, dan masalah keamanan data."
+            `Integrasi Kecerdasan Buatan (Artificial Intelligence/AI) dalam dunia pendidikan memberikan banyak manfaat, tetapi juga menghadirkan berbagai tantangan yang perlu diperhatikan. Penggunaan AI yang tidak tepat dapat memengaruhi proses belajar, kemampuan berpikir siswa, keamanan data, hingga pemerataan akses terhadap teknologi. Oleh karena itu, pendidik dan peserta didik perlu memahami tantangan-tantangan tersebut agar AI dapat dimanfaatkan secara bijaksana dan bertanggung jawab.
 
+1. Menurunnya Kemampuan Berpikir Kritis
+Ketergantungan pada jawaban instan dari AI dapat membuat peserta didik lebih berfokus pada hasil akhir daripada memahami proses belajar. Kondisi ini berpotensi mengurangi kemampuan berpikir kritis, menganalisis masalah, dan menemukan solusi secara mandiri.
 
-            ,
+2. Risiko Plagiarisme dan Hilangnya Orisinalitas
+Penggunaan AI tanpa disertai pemahaman dapat mendorong kebiasaan menyalin hasil yang diberikan AI tanpa melakukan pengembangan. Akibatnya, kemampuan menulis, berpikir kreatif, dan menghasilkan karya orisinal menjadi berkurang.
+
+3. Keterbatasan Akurasi Informasi
+Informasi yang dihasilkan AI tidak selalu benar atau sesuai dengan fakta. AI juga dapat menghasilkan informasi yang kurang akurat atau mengandung bias sehingga pengguna perlu memverifikasi kembali informasi dari sumber yang tepercaya.
+
+4. Privasi dan Keamanan Data
+Sebagian besar platform AI mengumpulkan data pengguna untuk meningkatkan kualitas layanan. Oleh karena itu, pengguna harus berhati-hati dalam membagikan data pribadi agar terhindar dari penyalahgunaan atau kebocoran informasi.
+
+5. Kurangnya Aspek Empati
+AI mampu memberikan informasi dan membantu menyelesaikan tugas, tetapi tidak memiliki empati, nilai moral, maupun kemampuan memahami kondisi emosional seseorang. Oleh sebab itu, peran guru tetap penting dalam membimbing, memotivasi, dan membentuk karakter peserta didik.
+
+6. Kesenjangan Akses Teknologi
+Tidak semua sekolah atau peserta didik memiliki akses terhadap perangkat, internet, dan literasi digital yang memadai. Kondisi ini dapat menyebabkan kesenjangan dalam pemanfaatan AI di dunia pendidikan.
+
+AI sebaiknya dimanfaatkan sebagai alat bantu pembelajaran yang mendukung proses belajar, bukan sebagai pengganti kemampuan berpikir, kreativitas, maupun peran guru. Dengan penggunaan yang tepat dan bertanggung jawab, AI dapat menjadi mitra yang membantu meningkatkan kualitas pembelajaran tanpa menghilangkan esensi pendidikan.`,
 
             example:
-            "Pengguna perlu melakukan pengecekan ulang terhadap jawaban AI sebelum menggunakannya."
+            "Seorang siswa selalu menggunakan AI untuk menjawab seluruh tugas sekolah tanpa mempelajari materi terlebih dahulu. Akibatnya, ketika mengikuti ujian yang tidak memperbolehkan penggunaan AI, siswa mengalami kesulitan karena kurang memahami konsep dasar. Hal ini menunjukkan bahwa AI sebaiknya digunakan sebagai alat bantu belajar, bukan sebagai pengganti proses berpikir."
 
         }
 
