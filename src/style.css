@@ -544,6 +544,7 @@ img {
     margin-top: 18px;
 }
 
+.referensi-list,
 .referensi-container {
     display: grid;
     grid-template-columns: repeat(2, minmax(0, 1fr));
@@ -556,22 +557,69 @@ img {
     padding: 30px;
     box-shadow: var(--shadow);
     border: 1px solid rgba(15, 23, 42, 0.06);
+    transition: transform 0.2s ease, box-shadow 0.2s ease;
 }
 
-.referensi-icon {
-    width: 64px;
-    height: 64px;
-    display: grid;
-    place-items: center;
-    border-radius: 18px;
-    background: var(--primary-soft);
-    font-size: 1.8rem;
+.referensi-card:hover {
+    transform: translateY(-4px);
+    box-shadow: 0 28px 60px rgba(15, 23, 42, 0.12);
+}
+
+.referensi-card-header {
+    display: flex;
+    gap: 18px;
+    align-items: flex-start;
     margin-bottom: 20px;
 }
 
 .referensi-card h2 {
-    color: #102840;
-    margin-bottom: 12px;
+    margin-bottom: 8px;
+}
+
+.referensi-card p {
+    margin: 0;
+    color: #475569;
+    line-height: 1.6;
+}
+
+.referensi-card ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+
+.referensi-card li {
+    margin-bottom: 14px;
+    line-height: 1.5;
+}
+
+.referensi-card a {
+    color: #0f172a;
+    text-decoration: none;
+    word-break: break-word;
+}
+
+.referensi-card a:hover {
+    color: var(--primary);
+    text-decoration: underline;
+}
+
+    .referensi-icon {
+        width: 64px;
+        height: 64px;
+        display: grid;
+        place-items: center;
+        border-radius: 18px;
+        background: var(--primary-soft);
+        font-size: 1.8rem;
+        margin-bottom: 20px;
+    }
+
+    @media (max-width: 900px) {
+        .referensi-list,
+        .referensi-container {
+            grid-template-columns: 1fr;
+        }
 }
 
 /* TENTANG */
